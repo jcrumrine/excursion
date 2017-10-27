@@ -25,10 +25,12 @@ a {
   font-size: 16px;
 }
 
-
-/* Class Selectors*/
-.copyright {
+footer {
   text-align: right;
 }
+
+
+/* Class Selectors*/
+
 
 /* ID Selectors*/
