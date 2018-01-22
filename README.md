@@ -13,3 +13,5 @@ be to entice potential customers into using the product.
 
 We'll work with Git and GitHub on our local machines, so if you haven't yet, refer to the articles on Command Line 
 Interface Setup and Git Setup.
+
+Example Website:https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/index.html
